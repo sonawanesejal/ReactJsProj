@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sejal",
+      "sex": "F",
+      "dob": "1990-03-12",
+      "salary": "56000",
+      "department": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Chetan",
+      "sex": "M",
+      "dob": "1998-06-23",
+      "salary": "90000",
+      "department": "HR"
+    },
+    {
+      "id": 9,
+      "name": "Bhagya",
+      "sex": "F",
+      "dob": "1996-07-10",
+      "salary": "55000",
+      "department": "Sales"
+    },
+    {
+      "id": 10,
+      "name": "Atharv",
+      "sex": "M",
+      "dob": "1996-05-15",
+      "salary": "65000",
+      "department": "Accounts"
+    },
+    {
+      "id": 14,
+      "name": "Divya",
+      "sex": "F",
+      "dob": "2001-05-17",
+      "salary": "28000",
+      "department": "Accounts"
+    },
+    {
+      "id": 15,
+      "name": "Saee ",
+      "sex": "F",
+      "dob": "2023-01-05",
+      "salary": "24000",
+      "department": "Sales"
+    },
+    {
+      "id": 16,
+      "name": "Snehal",
+      "sex": "F",
+      "dob": "2023-05-04",
+      "salary": "24000",
+      "department": "HR"
+    },
+    {
+      "id": 18,
+      "name": "Harshal",
+      "sex": "M",
+      "dob": "2001-08-01",
+      "salary": "40000",
+      "department": "Sales"
+    },
+    {
+      "name": "Chintan",
+      "sex": "M",
+      "dob": "2023-05-19",
+      "salary": "70000",
+      "department": "Accounts",
+      "id": 19
+    },
+    {
+      "name": "Neha",
+      "sex": "F",
+      "dob": "2023-06-17",
+      "salary": "40000",
+      "department": "Sales",
+      "id": 20
+    }
+  ]
+}
