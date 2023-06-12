@@ -1,0 +1,52 @@
+* {
+    justify-content: left;
+    /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000"); */
+}
+
+
+.login {
+    display: flex;
+    flex-direction: column;
+    min-height: 70vh;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+  }
+  
+    label {
+        text-align: left;
+        padding: 0.25rem 0;
+
+    }
+  
+    input {
+        margin: 0.5rem 0;
+    }
+
+.form-login {
+    position: relative;
+}
+
+span {
+    font-size: xxx-large;
+    font-weight: 900;
+    text-decoration: underline;
+    color:rgb(10, 10, 10);
+  }
+  
+.context {
+    height: 100vh;
+    background-image: url(https://th.bing.com/th/id/OIP.yNsChkMJX-NMZn96RqOXowHaDs?w=318&h=174&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.label {
+    color: rgb(17, 17, 17);
+    font-size: large;
+    text-align: left;
+    
+    
+}

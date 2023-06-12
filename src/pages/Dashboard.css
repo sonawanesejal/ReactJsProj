@@ -1,0 +1,21 @@
+.container {
+    padding: 20px;
+
+}
+
+/* .form-div table tr {
+    color: black;
+} */
+
+.form-div table tr th, table tr td {
+    padding: 7px;
+}
+
+.dash-content {
+    height: 850px;
+    background-image: url(https://th.bing.com/th/id/OIP.COXthUx_xkRKtHYDeDn8kgHaE8?w=254&h=184&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
